@@ -1,0 +1,100 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xiaotong/weex-demo/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/Users/xiaotong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8e656cfa1ba746ef1344e71563845bc/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,499,614,698,810,940,1016,1092,1175,1285,1396,1496,1607,1715,1834,1968,2071,2154",
+                        "endColumns": "107,107,122,104,114,83,111,129,75,75,82,109,110,99,110,107,118,133,102,82,100",
+                        "endOffsets": "158,266,389,494,609,693,805,935,1011,1087,1170,1280,1391,1491,1602,1710,1829,1963,2066,2149,2250"
+                    }
+                },
+                {
+                    "source": "/Users/xiaotong/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/cc66109d7b72f8fa76cd8bf61a1d1003/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,287",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "109,156,282,398"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2255,2314,2361,2487",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "2309,2356,2482,2598"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/shimuhui/androidStudy/weex/weex-demo/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/Users/shimuhui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/61ab2d49a2923cf1e6140178e1809f03/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,499,614,698,810,940,1016,1092,1175,1285,1396,1496,1607,1715,1834,1968,2071,2154",
+                        "endColumns": "107,107,122,104,114,83,111,129,75,75,82,109,110,99,110,107,118,133,102,82,100",
+                        "endOffsets": "158,266,389,494,609,693,805,935,1011,1087,1170,1280,1391,1491,1602,1710,1829,1963,2066,2149,2250"
+                    }
+                },
+                {
+                    "source": "/Users/shimuhui/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/70110734c8b9204072c29abecd3240be/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,287",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "109,156,282,398"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2255,2314,2361,2487",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "2309,2356,2482,2598"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/wangxiaogang/lianxi/weex-demo/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/Users/wangxiaogang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5fef0ad79e58b126529df6cee5405888/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,499,614,698,810,940,1016,1092,1175,1285,1396,1496,1607,1715,1834,1968,2071,2154",
+                        "endColumns": "107,107,122,104,114,83,111,129,75,75,82,109,110,99,110,107,118,133,102,82,100",
+                        "endOffsets": "158,266,389,494,609,693,805,935,1011,1087,1170,1280,1391,1491,1602,1710,1829,1963,2066,2149,2250"
+                    }
+                },
+                {
+                    "source": "/Users/wangxiaogang/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/d2492e06ecfa417b0920f1853c8ce97c/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,287",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "109,156,282,398"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2255,2314,2361,2487",
+                        "endColumns": "58,46,125,115",
+                        "endOffsets": "2309,2356,2482,2598"
+                    }
+                }
+            ]
+        }
+    ]
+}

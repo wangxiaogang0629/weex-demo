@@ -1,0 +1,366 @@
+{
+  "title": "一个程序猿的敏捷之路",
+  "author": "王俊",
+  "contents": [
+    {
+      "type": 0,
+      "content": "/dist/image/quick/quick-image1.png",
+      "class": "imageMargin"
+    },    
+    {
+      "type": 1,
+      "content": "传统的开发",
+      "class": "subtitleStyle"
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "1.需求",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "谁都可以提，优先级在于这个需求提出者的职位高低。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "没有需求整理和记录，有些需求竟是口口相传。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "随时追加和取消需求。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "2.工作量评估",
+      "class": ""
+    },{
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "下需求时就要给出大致时间点。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "给出时间点后，再开始需求分析，往往造成给出去的时间点根本不够，研发开始加班赶工。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "3.研发过程",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "没有原型，边做边猜。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "评估草率，实际工作量和难度过高。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "边界模糊，暗藏bug。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "需求随时改动和增删，直接找到开发人员，开发人员却不知情。",
+      "class": ""
+    },
+
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "进度无法追踪。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "综上，我们会发现一下问题：1：版本大，周期长，前期乐观，后期赶工；2:开发、需求、测试及验收全部并行，风险大进度实在不可控；3:变故太多，包括开发的变更和产品的变更。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "拥抱敏捷",
+      "class": "subtitleStyle"
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "遇上敏捷思想，开始寻思改变，scrum具备了小迭代和快速交付及快速反馈等特征，恰恰是这些特征刚好应对上述的一系列问题，于是开发团队开始试探，针对新的需求项目开始逐渐靠近敏捷开发的理念。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "1.需求",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "统一从产品部提出，版本内部规划优先级。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "版本包含的需求全部都在原型上体现，原型必须经过评审。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "版本定稿后，中途不接收修改，除非逻辑性错误其余一律归到下一个版本。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "2.工作量评估",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "评审会议结束后，如果没有异议，一般四个小时内研发给出时间点。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "3.研发过程",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "研发一旦开始开发，必须按照时间计划进行开发。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "版本分出各个sprint，每个sprint进行需求WBS，任务分解到个人。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "不允许研发以外的人员直接找到具体开发讨论工作。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "每日坚持站例会，针对每日工作和完成度进行沟通。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "经过一段时间的学习和适应，大家深刻的体会到了敏捷带来的快乐，由此就正式开启了我们开发团队的敏捷之路。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "在scrum环境中，之前的瀑布开发模型不再适用，取而代之的是每周设定为一个版本迭代，每个迭代包含backlog、sprint、站会、回顾。当我们完全按照这种理念去走的时候，可以明显的体会到这种敏捷模式所带来的变化。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "WBS，设定短小迭代周期，大的项目分成小版本，实现成功率高，很快可以看到效果。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "每日站会，同步开发和测试进度，保持项目关注度。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "不断迭代，保持项目速度。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "寻找最适合自己的敏捷模式  ",
+      "class": "subtitleStyle"
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "直至今天，技术部已经通过使用scrum理念完成了所有的项目开发和计划，虽然没有出现过太大的问题，但也发现了一些不适应的地方，比如版本的规划的颗粒度到底如何规划才好？燃尽图的最终结果跟预期不符等问题。这就需要我们在实际工作中去结合具体的情况作出改动，而不是一味的遵从官方标准的条例去实现。",
+      "class": ""
+    },
+    {
+      "type": 2,
+      "content": "",
+      "class": ""
+    },
+    {
+      "type": 1,
+      "content": "最后，我们庆幸自己能够及时的摆正开发的观点，不再依照原始的传统的开发流程而拥抱敏捷开发，我们也会坚持下去，提到整个开发的规范，工作更加高效更加有章法。",
+      "class": ""
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-WeexDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-WeexUITestDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SocketRocket.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>WeexSDK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6A8F093DB8C46955126C0D7FA284831E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E7FACD31C861FC3F7454FEF72A18B74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>751D8BBC7382642755567C1F5564FA65</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A9B57AEB3010C146695C846FE2A81B88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DDEBACA95C5104F70EE5B8279463CACE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

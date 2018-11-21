@@ -1,0 +1,60 @@
+@import "../../../sass/app.scss";
+.tickBg {
+  position: relative;
+  margin: torem(40) auto;
+  width: torem(55);
+  height: torem(55);
+  background-color: #4990e2;
+  border-radius: torem(100);
+  box-shadow: torem(2) torem(10) torem(17) 0 rgba(73,144,226,0.40);
+}
+.tick {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: torem(-13.5);
+  margin-top: torem(-12);
+  width: torem(27);
+  height: torem(24);
+  background-image: url(/dist/image/correct.svg);
+  background-size: cover;
+  overflow: hidden;
+}
+.tickCover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #4990e2;
+}
+.tickTitle {
+  height: torem(74);
+  font-size: torem(14);
+  color: #888888;
+  letter-spacing: 1px;
+  line-height: torem(14);
+  text-align: center;
+}
+
+@keyframes tickRun
+{
+  0% {-webkit-transform: translateX(0);}
+  // 40% {-webkit-transform: translateX(torem(11));}
+  // 70% {-webkit-transform: translateX(torem(11));}
+  100% {-webkit-transform: translateX(torem(27));}
+}
+@-webkit-keyframes tickRun
+{
+  0% {-webkit-transform: translateX(0);}
+  // 40% {-webkit-transform: translateX(torem(11));}
+  // 70% {-webkit-transform: translateX(torem(11));}
+  100% {-webkit-transform: translateX(torem(27));}
+}
+.run
+{
+  // animation: tickRun 0.6s linear 0.3s alternate forwards;
+  // -webkit-animation: tickRun 0.6s linear 0.3s alternate forwards;
+  animation: tickRun 0.6s ease-in alternate forwards;
+	-webkit-animation: tickRun 0.6s ease-in alternate forwards;
+}

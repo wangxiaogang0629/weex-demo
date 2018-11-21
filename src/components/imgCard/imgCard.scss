@@ -1,0 +1,90 @@
+/*
+*  imgCard样式
+*  xiaotong
+*/
+@import "../../assets/sass/func.scss";
+
+.img-card-wrapper-style {
+  
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #ddd;
+  margin-top: torem(21);
+  margin-left: torem(20);
+  margin-right: torem(20);
+  
+  img {
+    width: 100%;
+    height: torem(120);
+    border-top-left-radius: torem(6);
+    border-top-right-radius: torem(6);
+  }
+
+  .con-wrapper-style {
+    margin-top: torem(8);
+    margin-left: torem(20);
+    margin-right: torem(20);
+    margin-bottom: torem(10);
+  }
+
+  .title-style {
+    font-size: torem(18);
+    color: #212121;
+    letter-spacing: torem(0.6);
+    margin-bottom: torem(4);
+  }
+
+  .content-style {
+    font-size: torem(14);
+    color: #6d6d6d;
+    letter-spacing: torem(0.47);
+    font-family: PingFangSC-Light;
+
+
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height: torem(22);
+  }
+}
+
+.head-img-style {
+  width: 60px;
+  height: 60px;
+  border-radius: 2px;
+  border: 1px solid #d5d5d5;
+  font-size: 24px;
+  color: #555;
+}
+
+.img-card-title-wrapper-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+
+}
+
+.shape-img-style {
+  width: 28px;
+  height: 30px;
+}
+
+.shape-wrapper-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.shape-nub-style {
+  font-size: 24px;
+  color: #bbb;
+}
+

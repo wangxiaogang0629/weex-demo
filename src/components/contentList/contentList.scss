@@ -1,0 +1,45 @@
+@import "../../../sass/app.scss";
+.contentList {
+  text-align: left;
+  font-size: 0;
+}
+.imageDivStyle {
+  margin: torem(24) 0;
+}
+.imageStyle {
+  width: 100%;
+}
+.imageMargin {
+  padding: 0 torem(20);
+  box-sizing: border-box;
+}
+.imageNoMarginBottom {
+  margin-bottom: 0;
+}
+.contentStyle {
+  padding: 0 torem(20);
+  box-sizing: border-box;
+  max-height: 1000000px;
+  font-size: torem(16);
+  font-family:PingFangSC-Light;
+  color: #424242;
+  letter-spacing: torem(0.53);
+  line-height: torem(26);
+}
+.topStyle {
+  margin-top: torem(24);
+}
+.subtitleStyle {
+  //font-size: torem(18);
+  font-size: torem(20);
+  font-weight: bold;
+}
+.contentRight {
+  text-align: right;
+}
+.fontSizeBold {
+  font-weight: bold;
+}
+.colorBlue {
+  color: #4990E2;
+}

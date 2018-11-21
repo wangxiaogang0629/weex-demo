@@ -1,0 +1,4 @@
+/**换算rem的公共方法**/
+@function torem($px){
+  @return $px / 75 * 2rem; 
+}
